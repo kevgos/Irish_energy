@@ -1,0 +1,1057 @@
+﻿Fuel Group Hierarchy - Fuel Group,Fuel Type,Year,Final Consumption
+Coal,Anthracite + Manufactured Ovoids,1990,0
+Coal,Anthracite + Manufactured Ovoids,1991,93
+Coal,Anthracite + Manufactured Ovoids,1992,129
+Coal,Anthracite + Manufactured Ovoids,1993,116
+Coal,Anthracite + Manufactured Ovoids,1994,65
+Coal,Anthracite + Manufactured Ovoids,1995,47
+Coal,Anthracite + Manufactured Ovoids,1996,69
+Coal,Anthracite + Manufactured Ovoids,1997,38
+Coal,Anthracite + Manufactured Ovoids,1998,57
+Coal,Anthracite + Manufactured Ovoids,1999,47
+Coal,Anthracite + Manufactured Ovoids,2000,59
+Coal,Anthracite + Manufactured Ovoids,2001,62
+Coal,Anthracite + Manufactured Ovoids,2002,56
+Coal,Anthracite + Manufactured Ovoids,2003,56
+Coal,Anthracite + Manufactured Ovoids,2004,62
+Coal,Anthracite + Manufactured Ovoids,2005,62
+Coal,Anthracite + Manufactured Ovoids,2006,60
+Coal,Anthracite + Manufactured Ovoids,2007,63
+Coal,Anthracite + Manufactured Ovoids,2008,60
+Coal,Anthracite + Manufactured Ovoids,2009,70
+Coal,Anthracite + Manufactured Ovoids,2010,67
+Coal,Anthracite + Manufactured Ovoids,2011,57
+Coal,Anthracite + Manufactured Ovoids,2012,65
+Coal,Anthracite + Manufactured Ovoids,2013,78
+Coal,Anthracite + Manufactured Ovoids,2014,91
+Coal,Anthracite + Manufactured Ovoids,2015,75
+Coal,Anthracite + Manufactured Ovoids,2016,89
+Coal,Anthracite + Manufactured Ovoids,2017,85
+Coal,Anthracite + Manufactured Ovoids,2018,90
+Coal,Anthracite + Manufactured Ovoids,2019,88
+Coal,Anthracite + Manufactured Ovoids,2020,89
+Coal,Anthracite + Manufactured Ovoids,2021,91
+Coal,Anthracite + Manufactured Ovoids,2022,89
+Coal,Bituminous Coal,1990,825
+Coal,Bituminous Coal,1991,790
+Coal,Bituminous Coal,1992,431
+Coal,Bituminous Coal,1993,473
+Coal,Bituminous Coal,1994,305
+Coal,Bituminous Coal,1995,249
+Coal,Bituminous Coal,1996,399
+Coal,Bituminous Coal,1997,312
+Coal,Bituminous Coal,1998,318
+Coal,Bituminous Coal,1999,261
+Coal,Bituminous Coal,2000,323
+Coal,Bituminous Coal,2001,311
+Coal,Bituminous Coal,2002,292
+Coal,Bituminous Coal,2003,392
+Coal,Bituminous Coal,2004,401
+Coal,Bituminous Coal,2005,424
+Coal,Bituminous Coal,2006,390
+Coal,Bituminous Coal,2007,377
+Coal,Bituminous Coal,2008,378
+Coal,Bituminous Coal,2009,298
+Coal,Bituminous Coal,2010,302
+Coal,Bituminous Coal,2011,262
+Coal,Bituminous Coal,2012,263
+Coal,Bituminous Coal,2013,256
+Coal,Bituminous Coal,2014,240
+Coal,Bituminous Coal,2015,261
+Coal,Bituminous Coal,2016,260
+Coal,Bituminous Coal,2017,199
+Coal,Bituminous Coal,2018,222
+Coal,Bituminous Coal,2019,169
+Coal,Bituminous Coal,2020,176
+Coal,Bituminous Coal,2021,172
+Coal,Bituminous Coal,2022,98
+Coal,Coke,1990,0
+Coal,Coke,1991,0
+Coal,Coke,1992,0
+Coal,Coke,1993,0
+Coal,Coke,1994,0
+Coal,Coke,1995,0
+Coal,Coke,1996,0
+Coal,Coke,1997,0
+Coal,Coke,1998,0
+Coal,Coke,1999,0
+Coal,Coke,2000,0
+Coal,Coke,2001,0
+Coal,Coke,2002,0
+Coal,Coke,2003,0
+Coal,Coke,2004,0
+Coal,Coke,2005,0
+Coal,Coke,2006,0
+Coal,Coke,2007,0
+Coal,Coke,2008,0
+Coal,Coke,2009,0
+Coal,Coke,2010,0
+Coal,Coke,2011,0
+Coal,Coke,2012,0
+Coal,Coke,2013,0
+Coal,Coke,2014,0
+Coal,Coke,2015,0
+Coal,Coke,2016,0
+Coal,Coke,2017,0
+Coal,Coke,2018,0
+Coal,Coke,2019,0
+Coal,Coke,2020,0
+Coal,Coke,2021,0
+Coal,Coke,2022,0
+Coal,Lignite,1990,18
+Coal,Lignite,1991,33
+Coal,Lignite,1992,26
+Coal,Lignite,1993,21
+Coal,Lignite,1994,20
+Coal,Lignite,1995,21
+Coal,Lignite,1996,19
+Coal,Lignite,1997,18
+Coal,Lignite,1998,23
+Coal,Lignite,1999,19
+Coal,Lignite,2000,17
+Coal,Lignite,2001,21
+Coal,Lignite,2002,26
+Coal,Lignite,2003,20
+Coal,Lignite,2004,16
+Coal,Lignite,2005,25
+Coal,Lignite,2006,5
+Coal,Lignite,2007,7
+Coal,Lignite,2008,11
+Coal,Lignite,2009,12
+Coal,Lignite,2010,10
+Coal,Lignite,2011,11
+Coal,Lignite,2012,12
+Coal,Lignite,2013,17
+Coal,Lignite,2014,13
+Coal,Lignite,2015,18
+Coal,Lignite,2016,16
+Coal,Lignite,2017,14
+Coal,Lignite,2018,12
+Coal,Lignite,2019,9
+Coal,Lignite,2020,7
+Coal,Lignite,2021,12
+Coal,Lignite,2022,8
+Electricity,Electricity,1990,1298
+Electricity,Electricity,1991,1370
+Electricity,Electricity,1992,1454
+Electricity,Electricity,1993,1492
+Electricity,Electricity,1994,1556
+Electricity,Electricity,1995,1630
+Electricity,Electricity,1996,1745
+Electricity,Electricity,1997,1847
+Electricity,Electricity,1998,1959
+Electricity,Electricity,1999,2099
+Electricity,Electricity,2000,2275
+Electricity,Electricity,2001,2379
+Electricity,Electricity,2002,2504
+Electricity,Electricity,2003,2676
+Electricity,Electricity,2004,2690
+Electricity,Electricity,2005,2882
+Electricity,Electricity,2006,3087
+Electricity,Electricity,2007,3117
+Electricity,Electricity,2008,3236
+Electricity,Electricity,2009,3095
+Electricity,Electricity,2010,3078
+Electricity,Electricity,2011,3048
+Electricity,Electricity,2012,3041
+Electricity,Electricity,2013,3046
+Electricity,Electricity,2014,3025
+Electricity,Electricity,2015,3191
+Electricity,Electricity,2016,3272
+Electricity,Electricity,2017,3312
+Electricity,Electricity,2018,3529
+Electricity,Electricity,2019,3628
+Electricity,Electricity,2020,3577
+Electricity,Electricity,2021,3802
+Electricity,Electricity,2022,3970
+Natural Gas,Natural Gas,1990,664
+Natural Gas,Natural Gas,1991,765
+Natural Gas,Natural Gas,1992,801
+Natural Gas,Natural Gas,1993,921
+Natural Gas,Natural Gas,1994,947
+Natural Gas,Natural Gas,1995,974
+Natural Gas,Natural Gas,1996,1067
+Natural Gas,Natural Gas,1997,1080
+Natural Gas,Natural Gas,1998,1192
+Natural Gas,Natural Gas,1999,1284
+Natural Gas,Natural Gas,2000,1496
+Natural Gas,Natural Gas,2001,1524
+Natural Gas,Natural Gas,2002,1473
+Natural Gas,Natural Gas,2003,1558
+Natural Gas,Natural Gas,2004,1633
+Natural Gas,Natural Gas,2005,1650
+Natural Gas,Natural Gas,2006,1776
+Natural Gas,Natural Gas,2007,1764
+Natural Gas,Natural Gas,2008,1878
+Natural Gas,Natural Gas,2009,1760
+Natural Gas,Natural Gas,2010,1922
+Natural Gas,Natural Gas,2011,1806
+Natural Gas,Natural Gas,2012,1964
+Natural Gas,Natural Gas,2013,1957
+Natural Gas,Natural Gas,2014,1925
+Natural Gas,Natural Gas,2015,2062
+Natural Gas,Natural Gas,2016,2126
+Natural Gas,Natural Gas,2017,2139
+Natural Gas,Natural Gas,2018,2306
+Natural Gas,Natural Gas,2019,2334
+Natural Gas,Natural Gas,2020,2268
+Natural Gas,Natural Gas,2021,2302
+Natural Gas,Natural Gas,2022,2149
+Non-Renewable Waste,Non-Renewable Waste,1990,0
+Non-Renewable Waste,Non-Renewable Waste,1991,0
+Non-Renewable Waste,Non-Renewable Waste,1992,0
+Non-Renewable Waste,Non-Renewable Waste,1993,0
+Non-Renewable Waste,Non-Renewable Waste,1994,0
+Non-Renewable Waste,Non-Renewable Waste,1995,0
+Non-Renewable Waste,Non-Renewable Waste,1996,0
+Non-Renewable Waste,Non-Renewable Waste,1997,0
+Non-Renewable Waste,Non-Renewable Waste,1998,0
+Non-Renewable Waste,Non-Renewable Waste,1999,0
+Non-Renewable Waste,Non-Renewable Waste,2000,0
+Non-Renewable Waste,Non-Renewable Waste,2001,0
+Non-Renewable Waste,Non-Renewable Waste,2002,0
+Non-Renewable Waste,Non-Renewable Waste,2003,0
+Non-Renewable Waste,Non-Renewable Waste,2004,0
+Non-Renewable Waste,Non-Renewable Waste,2005,0
+Non-Renewable Waste,Non-Renewable Waste,2006,0
+Non-Renewable Waste,Non-Renewable Waste,2007,0
+Non-Renewable Waste,Non-Renewable Waste,2008,0
+Non-Renewable Waste,Non-Renewable Waste,2009,13
+Non-Renewable Waste,Non-Renewable Waste,2010,9
+Non-Renewable Waste,Non-Renewable Waste,2011,14
+Non-Renewable Waste,Non-Renewable Waste,2012,27
+Non-Renewable Waste,Non-Renewable Waste,2013,39
+Non-Renewable Waste,Non-Renewable Waste,2014,42
+Non-Renewable Waste,Non-Renewable Waste,2015,44
+Non-Renewable Waste,Non-Renewable Waste,2016,42
+Non-Renewable Waste,Non-Renewable Waste,2017,57
+Non-Renewable Waste,Non-Renewable Waste,2018,55
+Non-Renewable Waste,Non-Renewable Waste,2019,57
+Non-Renewable Waste,Non-Renewable Waste,2020,54
+Non-Renewable Waste,Non-Renewable Waste,2021,54
+Non-Renewable Waste,Non-Renewable Waste,2022,58
+Oil,Bitumen,1990,0
+Oil,Bitumen,1991,0
+Oil,Bitumen,1992,0
+Oil,Bitumen,1993,0
+Oil,Bitumen,1994,0
+Oil,Bitumen,1995,0
+Oil,Bitumen,1996,0
+Oil,Bitumen,1997,0
+Oil,Bitumen,1998,0
+Oil,Bitumen,1999,0
+Oil,Bitumen,2000,0
+Oil,Bitumen,2001,0
+Oil,Bitumen,2002,0
+Oil,Bitumen,2003,0
+Oil,Bitumen,2004,0
+Oil,Bitumen,2005,0
+Oil,Bitumen,2006,0
+Oil,Bitumen,2007,0
+Oil,Bitumen,2008,0
+Oil,Bitumen,2009,0
+Oil,Bitumen,2010,0
+Oil,Bitumen,2011,0
+Oil,Bitumen,2012,0
+Oil,Bitumen,2013,0
+Oil,Bitumen,2014,0
+Oil,Bitumen,2015,0
+Oil,Bitumen,2016,0
+Oil,Bitumen,2017,0
+Oil,Bitumen,2018,0
+Oil,Bitumen,2019,0
+Oil,Bitumen,2020,0
+Oil,Bitumen,2021,0
+Oil,Bitumen,2022,0
+Oil,Crude,1990,0
+Oil,Crude,1991,0
+Oil,Crude,1992,0
+Oil,Crude,1993,0
+Oil,Crude,1994,0
+Oil,Crude,1995,0
+Oil,Crude,1996,0
+Oil,Crude,1997,0
+Oil,Crude,1998,0
+Oil,Crude,1999,0
+Oil,Crude,2000,0
+Oil,Crude,2001,0
+Oil,Crude,2002,0
+Oil,Crude,2003,0
+Oil,Crude,2004,0
+Oil,Crude,2005,0
+Oil,Crude,2006,0
+Oil,Crude,2007,0
+Oil,Crude,2008,0
+Oil,Crude,2009,0
+Oil,Crude,2010,0
+Oil,Crude,2011,0
+Oil,Crude,2012,0
+Oil,Crude,2013,0
+Oil,Crude,2014,0
+Oil,Crude,2015,0
+Oil,Crude,2016,0
+Oil,Crude,2017,0
+Oil,Crude,2018,0
+Oil,Crude,2019,0
+Oil,Crude,2020,0
+Oil,Crude,2021,0
+Oil,Crude,2022,0
+Oil,Fuel Oil,1990,737
+Oil,Fuel Oil,1991,680
+Oil,Fuel Oil,1992,731
+Oil,Fuel Oil,1993,709
+Oil,Fuel Oil,1994,817
+Oil,Fuel Oil,1995,739
+Oil,Fuel Oil,1996,669
+Oil,Fuel Oil,1997,691
+Oil,Fuel Oil,1998,652
+Oil,Fuel Oil,1999,690
+Oil,Fuel Oil,2000,731
+Oil,Fuel Oil,2001,621
+Oil,Fuel Oil,2002,562
+Oil,Fuel Oil,2003,522
+Oil,Fuel Oil,2004,523
+Oil,Fuel Oil,2005,509
+Oil,Fuel Oil,2006,391
+Oil,Fuel Oil,2007,379
+Oil,Fuel Oil,2008,351
+Oil,Fuel Oil,2009,273
+Oil,Fuel Oil,2010,325
+Oil,Fuel Oil,2011,181
+Oil,Fuel Oil,2012,118
+Oil,Fuel Oil,2013,146
+Oil,Fuel Oil,2014,82
+Oil,Fuel Oil,2015,47
+Oil,Fuel Oil,2016,37
+Oil,Fuel Oil,2017,33
+Oil,Fuel Oil,2018,32
+Oil,Fuel Oil,2019,30
+Oil,Fuel Oil,2020,30
+Oil,Fuel Oil,2021,22
+Oil,Fuel Oil,2022,22
+Oil,Gasoil/Diesel/DERV,1990,2365
+Oil,Gasoil/Diesel/DERV,1991,2462
+Oil,Gasoil/Diesel/DERV,1992,2539
+Oil,Gasoil/Diesel/DERV,1993,2540
+Oil,Gasoil/Diesel/DERV,1994,2803
+Oil,Gasoil/Diesel/DERV,1995,2884
+Oil,Gasoil/Diesel/DERV,1996,2867
+Oil,Gasoil/Diesel/DERV,1997,2946
+Oil,Gasoil/Diesel/DERV,1998,3205
+Oil,Gasoil/Diesel/DERV,1999,3456
+Oil,Gasoil/Diesel/DERV,2000,3707
+Oil,Gasoil/Diesel/DERV,2001,3806
+Oil,Gasoil/Diesel/DERV,2002,3820
+Oil,Gasoil/Diesel/DERV,2003,3882
+Oil,Gasoil/Diesel/DERV,2004,3963
+Oil,Gasoil/Diesel/DERV,2005,4200
+Oil,Gasoil/Diesel/DERV,2006,4277
+Oil,Gasoil/Diesel/DERV,2007,4358
+Oil,Gasoil/Diesel/DERV,2008,4323
+Oil,Gasoil/Diesel/DERV,2009,3804
+Oil,Gasoil/Diesel/DERV,2010,3581
+Oil,Gasoil/Diesel/DERV,2011,3498
+Oil,Gasoil/Diesel/DERV,2012,3437
+Oil,Gasoil/Diesel/DERV,2013,3446
+Oil,Gasoil/Diesel/DERV,2014,3468
+Oil,Gasoil/Diesel/DERV,2015,3700
+Oil,Gasoil/Diesel/DERV,2016,3941
+Oil,Gasoil/Diesel/DERV,2017,3956
+Oil,Gasoil/Diesel/DERV,2018,4159
+Oil,Gasoil/Diesel/DERV,2019,4168
+Oil,Gasoil/Diesel/DERV,2020,3730
+Oil,Gasoil/Diesel/DERV,2021,3913
+Oil,Gasoil/Diesel/DERV,2022,4170
+Oil,Gasoline,1990,942
+Oil,Gasoline,1991,964
+Oil,Gasoline,1992,1034
+Oil,Gasoline,1993,1015
+Oil,Gasoline,1994,1048
+Oil,Gasoline,1995,1104
+Oil,Gasoline,1996,1170
+Oil,Gasoline,1997,1251
+Oil,Gasoline,1998,1391
+Oil,Gasoline,1999,1506
+Oil,Gasoline,2000,1590
+Oil,Gasoline,2001,1652
+Oil,Gasoline,2002,1688
+Oil,Gasoline,2003,1686
+Oil,Gasoline,2004,1731
+Oil,Gasoline,2005,1822
+Oil,Gasoline,2006,1849
+Oil,Gasoline,2007,1886
+Oil,Gasoline,2008,1798
+Oil,Gasoline,2009,1636
+Oil,Gasoline,2010,1478
+Oil,Gasoline,2011,1399
+Oil,Gasoline,2012,1272
+Oil,Gasoline,2013,1197
+Oil,Gasoline,2014,1134
+Oil,Gasoline,2015,1075
+Oil,Gasoline,2016,1003
+Oil,Gasoline,2017,904
+Oil,Gasoline,2018,821
+Oil,Gasoline,2019,781
+Oil,Gasoline,2020,578
+Oil,Gasoline,2021,613
+Oil,Gasoline,2022,698
+Oil,Jet Kerosene,1990,374
+Oil,Jet Kerosene,1991,361
+Oil,Jet Kerosene,1992,316
+Oil,Jet Kerosene,1993,460
+Oil,Jet Kerosene,1994,410
+Oil,Jet Kerosene,1995,400
+Oil,Jet Kerosene,1996,370
+Oil,Jet Kerosene,1997,444
+Oil,Jet Kerosene,1998,459
+Oil,Jet Kerosene,1999,542
+Oil,Jet Kerosene,2000,629
+Oil,Jet Kerosene,2001,755
+Oil,Jet Kerosene,2002,802
+Oil,Jet Kerosene,2003,784
+Oil,Jet Kerosene,2004,743
+Oil,Jet Kerosene,2005,857
+Oil,Jet Kerosene,2006,988
+Oil,Jet Kerosene,2007,1043
+Oil,Jet Kerosene,2008,970
+Oil,Jet Kerosene,2009,767
+Oil,Jet Kerosene,2010,787
+Oil,Jet Kerosene,2011,699
+Oil,Jet Kerosene,2012,586
+Oil,Jet Kerosene,2013,675
+Oil,Jet Kerosene,2014,748
+Oil,Jet Kerosene,2015,846
+Oil,Jet Kerosene,2016,868
+Oil,Jet Kerosene,2017,1021
+Oil,Jet Kerosene,2018,1103
+Oil,Jet Kerosene,2019,1116
+Oil,Jet Kerosene,2020,398
+Oil,Jet Kerosene,2021,446
+Oil,Jet Kerosene,2022,1018
+Oil,Kerosene,1990,121
+Oil,Kerosene,1991,132
+Oil,Kerosene,1992,123
+Oil,Kerosene,1993,142
+Oil,Kerosene,1994,240
+Oil,Kerosene,1995,328
+Oil,Kerosene,1996,426
+Oil,Kerosene,1997,463
+Oil,Kerosene,1998,549
+Oil,Kerosene,1999,701
+Oil,Kerosene,2000,673
+Oil,Kerosene,2001,762
+Oil,Kerosene,2002,785
+Oil,Kerosene,2003,853
+Oil,Kerosene,2004,920
+Oil,Kerosene,2005,946
+Oil,Kerosene,2006,945
+Oil,Kerosene,2007,943
+Oil,Kerosene,2008,1051
+Oil,Kerosene,2009,1098
+Oil,Kerosene,2010,1159
+Oil,Kerosene,2011,928
+Oil,Kerosene,2012,799
+Oil,Kerosene,2013,843
+Oil,Kerosene,2014,800
+Oil,Kerosene,2015,921
+Oil,Kerosene,2016,965
+Oil,Kerosene,2017,918
+Oil,Kerosene,2018,996
+Oil,Kerosene,2019,972
+Oil,Kerosene,2020,1122
+Oil,Kerosene,2021,990
+Oil,Kerosene,2022,827
+Oil,LPG,1990,157
+Oil,LPG,1991,167
+Oil,LPG,1992,161
+Oil,LPG,1993,165
+Oil,LPG,1994,173
+Oil,LPG,1995,168
+Oil,LPG,1996,161
+Oil,LPG,1997,161
+Oil,LPG,1998,172
+Oil,LPG,1999,179
+Oil,LPG,2000,193
+Oil,LPG,2001,202
+Oil,LPG,2002,195
+Oil,LPG,2003,195
+Oil,LPG,2004,202
+Oil,LPG,2005,230
+Oil,LPG,2006,229
+Oil,LPG,2007,231
+Oil,LPG,2008,244
+Oil,LPG,2009,172
+Oil,LPG,2010,223
+Oil,LPG,2011,214
+Oil,LPG,2012,207
+Oil,LPG,2013,246
+Oil,LPG,2014,214
+Oil,LPG,2015,222
+Oil,LPG,2016,222
+Oil,LPG,2017,228
+Oil,LPG,2018,248
+Oil,LPG,2019,247
+Oil,LPG,2020,227
+Oil,LPG,2021,239
+Oil,LPG,2022,247
+Oil,Lubricant,1990,0
+Oil,Lubricant,1991,0
+Oil,Lubricant,1992,0
+Oil,Lubricant,1993,0
+Oil,Lubricant,1994,0
+Oil,Lubricant,1995,0
+Oil,Lubricant,1996,0
+Oil,Lubricant,1997,0
+Oil,Lubricant,1998,0
+Oil,Lubricant,1999,0
+Oil,Lubricant,2000,0
+Oil,Lubricant,2001,0
+Oil,Lubricant,2002,0
+Oil,Lubricant,2003,0
+Oil,Lubricant,2004,0
+Oil,Lubricant,2005,0
+Oil,Lubricant,2006,0
+Oil,Lubricant,2007,0
+Oil,Lubricant,2008,0
+Oil,Lubricant,2009,0
+Oil,Lubricant,2010,0
+Oil,Lubricant,2011,0
+Oil,Lubricant,2012,0
+Oil,Lubricant,2013,0
+Oil,Lubricant,2014,0
+Oil,Lubricant,2015,0
+Oil,Lubricant,2016,0
+Oil,Lubricant,2017,0
+Oil,Lubricant,2018,0
+Oil,Lubricant,2019,0
+Oil,Lubricant,2020,0
+Oil,Lubricant,2021,0
+Oil,Lubricant,2022,0
+Oil,Naphtha,1990,1
+Oil,Naphtha,1991,1
+Oil,Naphtha,1992,1
+Oil,Naphtha,1993,1
+Oil,Naphtha,1994,1
+Oil,Naphtha,1995,1
+Oil,Naphtha,1996,1
+Oil,Naphtha,1997,1
+Oil,Naphtha,1998,1
+Oil,Naphtha,1999,1
+Oil,Naphtha,2000,1
+Oil,Naphtha,2001,1
+Oil,Naphtha,2002,1
+Oil,Naphtha,2003,1
+Oil,Naphtha,2004,1
+Oil,Naphtha,2005,1
+Oil,Naphtha,2006,1
+Oil,Naphtha,2007,1
+Oil,Naphtha,2008,1
+Oil,Naphtha,2009,1
+Oil,Naphtha,2010,1
+Oil,Naphtha,2011,0
+Oil,Naphtha,2012,0
+Oil,Naphtha,2013,0
+Oil,Naphtha,2014,0
+Oil,Naphtha,2015,0
+Oil,Naphtha,2016,0
+Oil,Naphtha,2017,0
+Oil,Naphtha,2018,0
+Oil,Naphtha,2019,0
+Oil,Naphtha,2020,0
+Oil,Naphtha,2021,0
+Oil,Naphtha,2022,0
+Oil,Petroleum Coke,1990,66
+Oil,Petroleum Coke,1991,99
+Oil,Petroleum Coke,1992,73
+Oil,Petroleum Coke,1993,66
+Oil,Petroleum Coke,1994,97
+Oil,Petroleum Coke,1995,110
+Oil,Petroleum Coke,1996,63
+Oil,Petroleum Coke,1997,143
+Oil,Petroleum Coke,1998,124
+Oil,Petroleum Coke,1999,130
+Oil,Petroleum Coke,2000,205
+Oil,Petroleum Coke,2001,278
+Oil,Petroleum Coke,2002,243
+Oil,Petroleum Coke,2003,262
+Oil,Petroleum Coke,2004,247
+Oil,Petroleum Coke,2005,278
+Oil,Petroleum Coke,2006,263
+Oil,Petroleum Coke,2007,271
+Oil,Petroleum Coke,2008,246
+Oil,Petroleum Coke,2009,130
+Oil,Petroleum Coke,2010,86
+Oil,Petroleum Coke,2011,76
+Oil,Petroleum Coke,2012,101
+Oil,Petroleum Coke,2013,99
+Oil,Petroleum Coke,2014,122
+Oil,Petroleum Coke,2015,134
+Oil,Petroleum Coke,2016,143
+Oil,Petroleum Coke,2017,138
+Oil,Petroleum Coke,2018,147
+Oil,Petroleum Coke,2019,140
+Oil,Petroleum Coke,2020,133
+Oil,Petroleum Coke,2021,151
+Oil,Petroleum Coke,2022,125
+Oil,Refinery Feedstock,1990,0
+Oil,Refinery Feedstock,1991,0
+Oil,Refinery Feedstock,1992,0
+Oil,Refinery Feedstock,1993,0
+Oil,Refinery Feedstock,1994,0
+Oil,Refinery Feedstock,1995,0
+Oil,Refinery Feedstock,1996,0
+Oil,Refinery Feedstock,1997,0
+Oil,Refinery Feedstock,1998,0
+Oil,Refinery Feedstock,1999,0
+Oil,Refinery Feedstock,2000,0
+Oil,Refinery Feedstock,2001,0
+Oil,Refinery Feedstock,2002,0
+Oil,Refinery Feedstock,2003,0
+Oil,Refinery Feedstock,2004,0
+Oil,Refinery Feedstock,2005,0
+Oil,Refinery Feedstock,2006,0
+Oil,Refinery Feedstock,2007,0
+Oil,Refinery Feedstock,2008,0
+Oil,Refinery Feedstock,2009,0
+Oil,Refinery Feedstock,2010,0
+Oil,Refinery Feedstock,2011,0
+Oil,Refinery Feedstock,2012,0
+Oil,Refinery Feedstock,2013,0
+Oil,Refinery Feedstock,2014,0
+Oil,Refinery Feedstock,2015,0
+Oil,Refinery Feedstock,2016,0
+Oil,Refinery Feedstock,2017,0
+Oil,Refinery Feedstock,2018,0
+Oil,Refinery Feedstock,2019,0
+Oil,Refinery Feedstock,2020,0
+Oil,Refinery Feedstock,2021,0
+Oil,Refinery Feedstock,2022,0
+Oil,Refinery Gas,1990,0
+Oil,Refinery Gas,1991,0
+Oil,Refinery Gas,1992,0
+Oil,Refinery Gas,1993,0
+Oil,Refinery Gas,1994,0
+Oil,Refinery Gas,1995,0
+Oil,Refinery Gas,1996,0
+Oil,Refinery Gas,1997,0
+Oil,Refinery Gas,1998,0
+Oil,Refinery Gas,1999,0
+Oil,Refinery Gas,2000,0
+Oil,Refinery Gas,2001,0
+Oil,Refinery Gas,2002,0
+Oil,Refinery Gas,2003,0
+Oil,Refinery Gas,2004,0
+Oil,Refinery Gas,2005,0
+Oil,Refinery Gas,2006,0
+Oil,Refinery Gas,2007,0
+Oil,Refinery Gas,2008,0
+Oil,Refinery Gas,2009,0
+Oil,Refinery Gas,2010,0
+Oil,Refinery Gas,2011,0
+Oil,Refinery Gas,2012,0
+Oil,Refinery Gas,2013,0
+Oil,Refinery Gas,2014,0
+Oil,Refinery Gas,2015,0
+Oil,Refinery Gas,2016,0
+Oil,Refinery Gas,2017,0
+Oil,Refinery Gas,2018,0
+Oil,Refinery Gas,2019,0
+Oil,Refinery Gas,2020,0
+Oil,Refinery Gas,2021,0
+Oil,Refinery Gas,2022,0
+Oil,White Spirit,1990,0
+Oil,White Spirit,1991,0
+Oil,White Spirit,1992,0
+Oil,White Spirit,1993,0
+Oil,White Spirit,1994,0
+Oil,White Spirit,1995,0
+Oil,White Spirit,1996,0
+Oil,White Spirit,1997,0
+Oil,White Spirit,1998,0
+Oil,White Spirit,1999,0
+Oil,White Spirit,2000,0
+Oil,White Spirit,2001,0
+Oil,White Spirit,2002,0
+Oil,White Spirit,2003,0
+Oil,White Spirit,2004,0
+Oil,White Spirit,2005,0
+Oil,White Spirit,2006,0
+Oil,White Spirit,2007,0
+Oil,White Spirit,2008,0
+Oil,White Spirit,2009,0
+Oil,White Spirit,2010,0
+Oil,White Spirit,2011,0
+Oil,White Spirit,2012,0
+Oil,White Spirit,2013,0
+Oil,White Spirit,2014,0
+Oil,White Spirit,2015,0
+Oil,White Spirit,2016,0
+Oil,White Spirit,2017,0
+Oil,White Spirit,2018,0
+Oil,White Spirit,2019,0
+Oil,White Spirit,2020,0
+Oil,White Spirit,2021,0
+Oil,White Spirit,2022,0
+Peat,Briquettes,1990,187
+Peat,Briquettes,1991,188
+Peat,Briquettes,1992,175
+Peat,Briquettes,1993,178
+Peat,Briquettes,1994,156
+Peat,Briquettes,1995,131
+Peat,Briquettes,1996,130
+Peat,Briquettes,1997,117
+Peat,Briquettes,1998,126
+Peat,Briquettes,1999,127
+Peat,Briquettes,2000,128
+Peat,Briquettes,2001,117
+Peat,Briquettes,2002,119
+Peat,Briquettes,2003,95
+Peat,Briquettes,2004,90
+Peat,Briquettes,2005,91
+Peat,Briquettes,2006,89
+Peat,Briquettes,2007,85
+Peat,Briquettes,2008,106
+Peat,Briquettes,2009,104
+Peat,Briquettes,2010,88
+Peat,Briquettes,2011,79
+Peat,Briquettes,2012,87
+Peat,Briquettes,2013,90
+Peat,Briquettes,2014,72
+Peat,Briquettes,2015,73
+Peat,Briquettes,2016,69
+Peat,Briquettes,2017,61
+Peat,Briquettes,2018,69
+Peat,Briquettes,2019,56
+Peat,Briquettes,2020,62
+Peat,Briquettes,2021,52
+Peat,Briquettes,2022,29
+Peat,Milled Peat,1990,0
+Peat,Milled Peat,1991,0
+Peat,Milled Peat,1992,0
+Peat,Milled Peat,1993,0
+Peat,Milled Peat,1994,0
+Peat,Milled Peat,1995,0
+Peat,Milled Peat,1996,0
+Peat,Milled Peat,1997,0
+Peat,Milled Peat,1998,0
+Peat,Milled Peat,1999,0
+Peat,Milled Peat,2000,0
+Peat,Milled Peat,2001,0
+Peat,Milled Peat,2002,0
+Peat,Milled Peat,2003,0
+Peat,Milled Peat,2004,0
+Peat,Milled Peat,2005,0
+Peat,Milled Peat,2006,0
+Peat,Milled Peat,2007,0
+Peat,Milled Peat,2008,1
+Peat,Milled Peat,2009,1
+Peat,Milled Peat,2010,0
+Peat,Milled Peat,2011,0
+Peat,Milled Peat,2012,1
+Peat,Milled Peat,2013,0
+Peat,Milled Peat,2014,1
+Peat,Milled Peat,2015,1
+Peat,Milled Peat,2016,1
+Peat,Milled Peat,2017,1
+Peat,Milled Peat,2018,1
+Peat,Milled Peat,2019,0
+Peat,Milled Peat,2020,0
+Peat,Milled Peat,2021,0
+Peat,Milled Peat,2022,0
+Peat,Sod Peat,1990,602
+Peat,Sod Peat,1991,491
+Peat,Sod Peat,1992,498
+Peat,Sod Peat,1993,462
+Peat,Sod Peat,1994,477
+Peat,Sod Peat,1995,486
+Peat,Sod Peat,1996,383
+Peat,Sod Peat,1997,366
+Peat,Sod Peat,1998,351
+Peat,Sod Peat,1999,206
+Peat,Sod Peat,2000,179
+Peat,Sod Peat,2001,179
+Peat,Sod Peat,2002,178
+Peat,Sod Peat,2003,177
+Peat,Sod Peat,2004,177
+Peat,Sod Peat,2005,183
+Peat,Sod Peat,2006,196
+Peat,Sod Peat,2007,186
+Peat,Sod Peat,2008,174
+Peat,Sod Peat,2009,169
+Peat,Sod Peat,2010,165
+Peat,Sod Peat,2011,163
+Peat,Sod Peat,2012,128
+Peat,Sod Peat,2013,128
+Peat,Sod Peat,2014,128
+Peat,Sod Peat,2015,128
+Peat,Sod Peat,2016,128
+Peat,Sod Peat,2017,128
+Peat,Sod Peat,2018,128
+Peat,Sod Peat,2019,128
+Peat,Sod Peat,2020,128
+Peat,Sod Peat,2021,128
+Peat,Sod Peat,2022,128
+Renewables,Ambient Heat,1990,0
+Renewables,Ambient Heat,1991,0
+Renewables,Ambient Heat,1992,0
+Renewables,Ambient Heat,1993,0
+Renewables,Ambient Heat,1994,0
+Renewables,Ambient Heat,1995,0
+Renewables,Ambient Heat,1996,0
+Renewables,Ambient Heat,1997,0
+Renewables,Ambient Heat,1998,0
+Renewables,Ambient Heat,1999,0
+Renewables,Ambient Heat,2000,0
+Renewables,Ambient Heat,2001,0
+Renewables,Ambient Heat,2002,0
+Renewables,Ambient Heat,2003,1
+Renewables,Ambient Heat,2004,3
+Renewables,Ambient Heat,2005,5
+Renewables,Ambient Heat,2006,9
+Renewables,Ambient Heat,2007,13
+Renewables,Ambient Heat,2008,18
+Renewables,Ambient Heat,2009,20
+Renewables,Ambient Heat,2010,21
+Renewables,Ambient Heat,2011,23
+Renewables,Ambient Heat,2012,26
+Renewables,Ambient Heat,2013,28
+Renewables,Ambient Heat,2014,31
+Renewables,Ambient Heat,2015,37
+Renewables,Ambient Heat,2016,45
+Renewables,Ambient Heat,2017,54
+Renewables,Ambient Heat,2018,60
+Renewables,Ambient Heat,2019,72
+Renewables,Ambient Heat,2020,86
+Renewables,Ambient Heat,2021,101
+Renewables,Ambient Heat,2022,123
+Renewables,Biodiesel,1990,0
+Renewables,Biodiesel,1991,0
+Renewables,Biodiesel,1992,0
+Renewables,Biodiesel,1993,0
+Renewables,Biodiesel,1994,0
+Renewables,Biodiesel,1995,0
+Renewables,Biodiesel,1996,0
+Renewables,Biodiesel,1997,0
+Renewables,Biodiesel,1998,0
+Renewables,Biodiesel,1999,0
+Renewables,Biodiesel,2000,0
+Renewables,Biodiesel,2001,0
+Renewables,Biodiesel,2002,0
+Renewables,Biodiesel,2003,0
+Renewables,Biodiesel,2004,0
+Renewables,Biodiesel,2005,1
+Renewables,Biodiesel,2006,2
+Renewables,Biodiesel,2007,18
+Renewables,Biodiesel,2008,38
+Renewables,Biodiesel,2009,55
+Renewables,Biodiesel,2010,62
+Renewables,Biodiesel,2011,69
+Renewables,Biodiesel,2012,56
+Renewables,Biodiesel,2013,74
+Renewables,Biodiesel,2014,90
+Renewables,Biodiesel,2015,98
+Renewables,Biodiesel,2016,86
+Renewables,Biodiesel,2017,131
+Renewables,Biodiesel,2018,127
+Renewables,Biodiesel,2019,162
+Renewables,Biodiesel,2020,155
+Renewables,Biodiesel,2021,158
+Renewables,Biodiesel,2022,200
+Renewables,Bioethanol,1990,0
+Renewables,Bioethanol,1991,0
+Renewables,Bioethanol,1992,0
+Renewables,Bioethanol,1993,0
+Renewables,Bioethanol,1994,0
+Renewables,Bioethanol,1995,0
+Renewables,Bioethanol,1996,0
+Renewables,Bioethanol,1997,0
+Renewables,Bioethanol,1998,0
+Renewables,Bioethanol,1999,0
+Renewables,Bioethanol,2000,0
+Renewables,Bioethanol,2001,0
+Renewables,Bioethanol,2002,0
+Renewables,Bioethanol,2003,0
+Renewables,Bioethanol,2004,0
+Renewables,Bioethanol,2005,0
+Renewables,Bioethanol,2006,1
+Renewables,Bioethanol,2007,4
+Renewables,Bioethanol,2008,18
+Renewables,Bioethanol,2009,23
+Renewables,Bioethanol,2010,30
+Renewables,Bioethanol,2011,29
+Renewables,Bioethanol,2012,29
+Renewables,Bioethanol,2013,29
+Renewables,Bioethanol,2014,27
+Renewables,Bioethanol,2015,30
+Renewables,Bioethanol,2016,33
+Renewables,Bioethanol,2017,30
+Renewables,Bioethanol,2018,27
+Renewables,Bioethanol,2019,26
+Renewables,Bioethanol,2020,19
+Renewables,Bioethanol,2021,20
+Renewables,Bioethanol,2022,23
+Renewables,Biogas,1990,2
+Renewables,Biogas,1991,3
+Renewables,Biogas,1992,3
+Renewables,Biogas,1993,4
+Renewables,Biogas,1994,2
+Renewables,Biogas,1995,3
+Renewables,Biogas,1996,4
+Renewables,Biogas,1997,4
+Renewables,Biogas,1998,4
+Renewables,Biogas,1999,4
+Renewables,Biogas,2000,4
+Renewables,Biogas,2001,4
+Renewables,Biogas,2002,4
+Renewables,Biogas,2003,9
+Renewables,Biogas,2004,10
+Renewables,Biogas,2005,10
+Renewables,Biogas,2006,11
+Renewables,Biogas,2007,9
+Renewables,Biogas,2008,9
+Renewables,Biogas,2009,12
+Renewables,Biogas,2010,12
+Renewables,Biogas,2011,14
+Renewables,Biogas,2012,13
+Renewables,Biogas,2013,11
+Renewables,Biogas,2014,13
+Renewables,Biogas,2015,14
+Renewables,Biogas,2016,15
+Renewables,Biogas,2017,16
+Renewables,Biogas,2018,15
+Renewables,Biogas,2019,16
+Renewables,Biogas,2020,18
+Renewables,Biogas,2021,19
+Renewables,Biogas,2022,20
+Renewables,Biomass,1990,105
+Renewables,Biomass,1991,101
+Renewables,Biomass,1992,89
+Renewables,Biomass,1993,90
+Renewables,Biomass,1994,91
+Renewables,Biomass,1995,89
+Renewables,Biomass,1996,95
+Renewables,Biomass,1997,92
+Renewables,Biomass,1998,112
+Renewables,Biomass,1999,105
+Renewables,Biomass,2000,113
+Renewables,Biomass,2001,125
+Renewables,Biomass,2002,125
+Renewables,Biomass,2003,119
+Renewables,Biomass,2004,139
+Renewables,Biomass,2005,176
+Renewables,Biomass,2006,182
+Renewables,Biomass,2007,186
+Renewables,Biomass,2008,181
+Renewables,Biomass,2009,186
+Renewables,Biomass,2010,192
+Renewables,Biomass,2011,180
+Renewables,Biomass,2012,176
+Renewables,Biomass,2013,194
+Renewables,Biomass,2014,224
+Renewables,Biomass,2015,211
+Renewables,Biomass,2016,218
+Renewables,Biomass,2017,219
+Renewables,Biomass,2018,220
+Renewables,Biomass,2019,199
+Renewables,Biomass,2020,196
+Renewables,Biomass,2021,189
+Renewables,Biomass,2022,196
+Renewables,Renewable Waste,1990,0
+Renewables,Renewable Waste,1991,0
+Renewables,Renewable Waste,1992,0
+Renewables,Renewable Waste,1993,0
+Renewables,Renewable Waste,1994,0
+Renewables,Renewable Waste,1995,0
+Renewables,Renewable Waste,1996,0
+Renewables,Renewable Waste,1997,0
+Renewables,Renewable Waste,1998,0
+Renewables,Renewable Waste,1999,0
+Renewables,Renewable Waste,2000,0
+Renewables,Renewable Waste,2001,0
+Renewables,Renewable Waste,2002,0
+Renewables,Renewable Waste,2003,0
+Renewables,Renewable Waste,2004,0
+Renewables,Renewable Waste,2005,0
+Renewables,Renewable Waste,2006,0
+Renewables,Renewable Waste,2007,0
+Renewables,Renewable Waste,2008,0
+Renewables,Renewable Waste,2009,5
+Renewables,Renewable Waste,2010,6
+Renewables,Renewable Waste,2011,11
+Renewables,Renewable Waste,2012,20
+Renewables,Renewable Waste,2013,23
+Renewables,Renewable Waste,2014,26
+Renewables,Renewable Waste,2015,31
+Renewables,Renewable Waste,2016,38
+Renewables,Renewable Waste,2017,41
+Renewables,Renewable Waste,2018,41
+Renewables,Renewable Waste,2019,40
+Renewables,Renewable Waste,2020,43
+Renewables,Renewable Waste,2021,47
+Renewables,Renewable Waste,2022,54
+Renewables,Solar Photovoltaic,1990,0
+Renewables,Solar Photovoltaic,1991,0
+Renewables,Solar Photovoltaic,1992,0
+Renewables,Solar Photovoltaic,1993,0
+Renewables,Solar Photovoltaic,1994,0
+Renewables,Solar Photovoltaic,1995,0
+Renewables,Solar Photovoltaic,1996,0
+Renewables,Solar Photovoltaic,1997,0
+Renewables,Solar Photovoltaic,1998,0
+Renewables,Solar Photovoltaic,1999,0
+Renewables,Solar Photovoltaic,2000,0
+Renewables,Solar Photovoltaic,2001,0
+Renewables,Solar Photovoltaic,2002,0
+Renewables,Solar Photovoltaic,2003,0
+Renewables,Solar Photovoltaic,2004,0
+Renewables,Solar Photovoltaic,2005,0
+Renewables,Solar Photovoltaic,2006,0
+Renewables,Solar Photovoltaic,2007,0
+Renewables,Solar Photovoltaic,2008,0
+Renewables,Solar Photovoltaic,2009,0
+Renewables,Solar Photovoltaic,2010,0
+Renewables,Solar Photovoltaic,2011,0
+Renewables,Solar Photovoltaic,2012,0
+Renewables,Solar Photovoltaic,2013,0
+Renewables,Solar Photovoltaic,2014,0
+Renewables,Solar Photovoltaic,2015,0
+Renewables,Solar Photovoltaic,2016,0
+Renewables,Solar Photovoltaic,2017,0
+Renewables,Solar Photovoltaic,2018,0
+Renewables,Solar Photovoltaic,2019,0
+Renewables,Solar Photovoltaic,2020,0
+Renewables,Solar Photovoltaic,2021,0
+Renewables,Solar Photovoltaic,2022,0
+Renewables,Solar Thermal,1990,0
+Renewables,Solar Thermal,1991,0
+Renewables,Solar Thermal,1992,0
+Renewables,Solar Thermal,1993,0
+Renewables,Solar Thermal,1994,0
+Renewables,Solar Thermal,1995,0
+Renewables,Solar Thermal,1996,0
+Renewables,Solar Thermal,1997,0
+Renewables,Solar Thermal,1998,0
+Renewables,Solar Thermal,1999,0
+Renewables,Solar Thermal,2000,0
+Renewables,Solar Thermal,2001,0
+Renewables,Solar Thermal,2002,0
+Renewables,Solar Thermal,2003,0
+Renewables,Solar Thermal,2004,0
+Renewables,Solar Thermal,2005,0
+Renewables,Solar Thermal,2006,1
+Renewables,Solar Thermal,2007,1
+Renewables,Solar Thermal,2008,3
+Renewables,Solar Thermal,2009,5
+Renewables,Solar Thermal,2010,8
+Renewables,Solar Thermal,2011,9
+Renewables,Solar Thermal,2012,10
+Renewables,Solar Thermal,2013,10
+Renewables,Solar Thermal,2014,11
+Renewables,Solar Thermal,2015,12
+Renewables,Solar Thermal,2016,12
+Renewables,Solar Thermal,2017,13
+Renewables,Solar Thermal,2018,14
+Renewables,Solar Thermal,2019,14
+Renewables,Solar Thermal,2020,14
+Renewables,Solar Thermal,2021,14
+Renewables,Solar Thermal,2022,14

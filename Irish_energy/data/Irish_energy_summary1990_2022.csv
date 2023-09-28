@@ -1,0 +1,232 @@
+Year,Fuel Group,Primary Energy,Final Consumption
+2005,Oil,9595,8843
+2006,Oil,9309,8943
+2008,Oil,9205,8984
+2007,Oil,9085,9112
+2004,Oil,8934,8330
+2002,Oil,8638,8096
+2001,Oil,8608,8077
+2003,Oil,8323,8185
+1999,Oil,8221,7205
+2000,Oil,8168,7729
+2009,Oil,8002,7881
+2010,Oil,7622,7640
+2019,Oil,7419,7454
+2018,Oil,7386,7506
+1998,Oil,7285,6553
+2016,Oil,7210,7179
+2022,Oil,7140,7107
+2017,Oil,7101,7198
+2011,Oil,7082,6995
+2015,Oil,6861,6945
+2021,Oil,6718,6374
+1997,Oil,6597,6100
+2013,Oil,6568,6652
+2012,Oil,6502,6520
+2014,Oil,6440,6568
+2020,Oil,6230,6218
+1996,Oil,5970,5727
+1994,Oil,5683,5589
+1995,Oil,5652,5734
+1993,Oil,5115,5098
+1992,Oil,5106,4978
+1991,Oil,4929,4866
+2010,Natural Gas,4712,1922
+1990,Oil,4625,4763
+2019,Natural Gas,4571,2334
+2020,Natural Gas,4564,2268
+2008,Natural Gas,4524,1878
+2018,Natural Gas,4480,2306
+2022,Natural Gas,4471,2149
+2021,Natural Gas,4384,2302
+2017,Natural Gas,4315,2139
+2009,Natural Gas,4295,1760
+2007,Natural Gas,4255,1764
+2016,Natural Gas,4251,2126
+2011,Natural Gas,4147,1806
+2012,Natural Gas,4041,1964
+2006,Natural Gas,3969,1776
+2013,Natural Gas,3863,1957
+2015,Natural Gas,3769,2062
+2014,Natural Gas,3731,1925
+2002,Natural Gas,3686,1473
+2003,Natural Gas,3659,1558
+2004,Natural Gas,3653,1633
+2001,Natural Gas,3591,1524
+2005,Natural Gas,3503,1650
+2000,Natural Gas,3443,1496
+1999,Natural Gas,3003,1284
+1998,Natural Gas,2808,1192
+1997,Natural Gas,2777,1080
+1996,Natural Gas,2657,1067
+1995,Natural Gas,2339,974
+1994,Natural Gas,2198,947
+1993,Natural Gas,2161,921
+1990,Coal,2085,843
+1991,Coal,2044,916
+1991,Natural Gas,1923,765
+1996,Coal,1917,487
+1992,Natural Gas,1902,801
+2005,Coal,1882,511
+2001,Coal,1877,394
+1990,Natural Gas,1877,664
+1992,Coal,1876,586
+1998,Coal,1866,398
+2022,Renewables,1863,630
+1993,Coal,1856,610
+2000,Coal,1813,399
+2020,Renewables,1800,531
+1997,Coal,1800,368
+2004,Coal,1799,479
+1995,Coal,1777,317
+2002,Coal,1747,374
+2003,Coal,1745,468
+1994,Coal,1733,390
+2021,Renewables,1648,548
+2019,Renewables,1646,529
+2006,Coal,1631,455
+2007,Coal,1599,447
+1999,Coal,1588,327
+2012,Coal,1485,340
+2018,Renewables,1482,504
+2015,Coal,1466,354
+2016,Coal,1450,365
+2008,Coal,1410,449
+1990,Peat,1377,789
+2017,Renewables,1339,504
+2013,Coal,1306,351
+1992,Peat,1287,673
+1991,Peat,1276,679
+2014,Coal,1249,344
+2010,Coal,1233,379
+2011,Coal,1224,330
+1993,Peat,1218,640
+1994,Peat,1208,633
+1995,Peat,1184,617
+2017,Coal,1146,298
+2009,Coal,1143,380
+2015,Renewables,1137,433
+2016,Renewables,1136,447
+1996,Peat,1060,513
+1997,Peat,1037,483
+2014,Renewables,1004,422
+1998,Peat,989,477
+2021,Coal,914,275
+2013,Renewables,888,369
+2002,Peat,887,297
+2008,Peat,872,281
+1999,Peat,869,333
+2009,Peat,864,274
+2001,Peat,863,296
+2011,Renewables,826,335
+2012,Renewables,822,330
+2003,Peat,805,272
+2000,Peat,803,307
+2005,Peat,791,274
+2012,Peat,790,216
+2018,Coal,787,324
+2014,Peat,777,201
+2015,Peat,767,202
+2010,Peat,765,253
+2006,Peat,759,285
+2007,Peat,750,271
+2013,Peat,742,218
+2016,Peat,734,198
+2022,Coal,727,195
+2011,Peat,724,242
+2017,Peat,695,190
+2018,Peat,686,198
+2010,Renewables,678,331
+2009,Renewables,677,306
+2019,Peat,629,184
+2008,Renewables,588,267
+2004,Peat,583,267
+2007,Renewables,488,231
+2020,Coal,447,272
+2006,Renewables,430,206
+2020,Peat,418,190
+2019,Coal,387,266
+2005,Renewables,370,192
+2004,Renewables,284,152
+2021,Peat,265,180
+2002,Renewables,261,129
+2003,Renewables,236,129
+2000,Renewables,235,117
+2001,Renewables,234,129
+1998,Renewables,231,116
+2022,Peat,223,157
+1999,Renewables,222,109
+2013,Electricity,193,3046
+2014,Electricity,185,3025
+1997,Renewables,181,96
+2005,Electricity,176,2882
+1994,Renewables,174,93
+1996,Renewables,169,99
+1991,Renewables,168,104
+1990,Renewables,168,107
+1992,Renewables,162,92
+1993,Renewables,161,94
+1995,Renewables,155,92
+2006,Electricity,153,3087
+2022,Non-Renewable Waste,148,58
+2020,Non-Renewable Waste,147,54
+2018,Non-Renewable Waste,145,55
+2019,Non-Renewable Waste,145,57
+2021,Non-Renewable Waste,143,54
+2021,Electricity,137,3802
+2004,Electricity,135,2690
+2007,Electricity,114,3117
+2017,Non-Renewable Waste,113,57
+2003,Electricity,100,2676
+2015,Non-Renewable Waste,69,44
+2016,Non-Renewable Waste,67,42
+2014,Non-Renewable Waste,66,42
+2009,Electricity,66,3095
+2013,Non-Renewable Waste,61,39
+2015,Electricity,58,3191
+2019,Electricity,55,3628
+2012,Non-Renewable Waste,46,27
+2002,Electricity,43,2504
+2011,Electricity,42,3048
+2010,Electricity,40,3078
+2008,Electricity,39,3236
+2012,Electricity,36,3041
+2022,Electricity,22,3970
+1999,Electricity,21,2099
+2011,Non-Renewable Waste,14,14
+2009,Non-Renewable Waste,13,13
+2010,Non-Renewable Waste,9,9
+2000,Electricity,8,2275
+1998,Electricity,7,1959
+1990,Electricity,0,1298
+1990,Non-Renewable Waste,0,0
+1991,Electricity,0,1370
+1991,Non-Renewable Waste,0,0
+1992,Electricity,0,1454
+1992,Non-Renewable Waste,0,0
+1993,Electricity,0,1492
+1993,Non-Renewable Waste,0,0
+1994,Electricity,0,1556
+1994,Non-Renewable Waste,0,0
+1995,Non-Renewable Waste,0,0
+1996,Non-Renewable Waste,0,0
+1997,Non-Renewable Waste,0,0
+1998,Non-Renewable Waste,0,0
+1999,Non-Renewable Waste,0,0
+2000,Non-Renewable Waste,0,0
+2001,Non-Renewable Waste,0,0
+2002,Non-Renewable Waste,0,0
+2003,Non-Renewable Waste,0,0
+2004,Non-Renewable Waste,0,0
+2005,Non-Renewable Waste,0,0
+2006,Non-Renewable Waste,0,0
+2007,Non-Renewable Waste,0,0
+2008,Non-Renewable Waste,0,0
+1997,Electricity,-1,1847
+1995,Electricity,-1,1630
+2018,Electricity,-2,3529
+1996,Electricity,-11,1745
+2020,Electricity,-13,3577
+2001,Electricity,-22,2379
+2017,Electricity,-58,3312
+2016,Electricity,-61,3272
